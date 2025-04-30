@@ -39,7 +39,7 @@ sudo apt install gcc
 ## 🆗 Execução:
 Se estiver usando o _gcc_ no terminal: 
 ```
-gcc calculadora.c -o calculadora
+gcc main.c -o calculadora
 ./calculadora
 ```
 Agora, se estiver usando o _VSCode_:
